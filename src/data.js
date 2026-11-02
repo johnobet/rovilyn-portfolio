@@ -11,7 +11,7 @@ export const profile = {
   heroText: "Creating websites that are simple, functional and user-friendly — solutions people actually enjoy using.",
   bio: "I'm a 21-year-old BS Computer Science student (3B) from Guio-ang, Guindulman, Bohol. I focus on front-end development: turning ideas into clean, responsive websites with React and Tailwind CSS, and connecting them to databases with PHP and MySQL. I love learning new tools and always try to give my best in every project.",
   email: "rovilyn.castrodes@bisu.edu.ph",
-  facebook: { name: "Castrodes Rovilyn", url: "https://www.facebook.com/search/top?q=Castrodes%20Rovilyn" },
+  facebook: { name: "Castrodes Rovilyn", url: "https://www.facebook.com/urlyniee/" },
 };
 
 const icon = (n, v = "original") => `https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/${n}/${n}-${v}.svg`;
