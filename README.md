@@ -11,3 +11,4 @@ npm run build    # static site in ./dist
 ```
 
 Content lives in `src/data.js`. Pushing to `main` deploys to GitHub Pages through `.github/workflows/deploy.yml` (set **Settings → Pages → Source** to **GitHub Actions**). Comments on the contact page are saved in the visitor's browser only.
+
